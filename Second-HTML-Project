@@ -15,40 +15,49 @@
     <p>Web tasarım, elektronik, yazılım ve biraz alakasız olsa da tarih hobilerim arasında.</p>
     <!-- Hobilerim ve geliştirmeye uğraştığım özelliklerim -->
     <h2>Eğitim:</h2>
+    <div>
     <p>Yıldız Teknik Üniversitesi, kontrol ve otomasyon mühendisliği 3. sınıf öğrencisiyim.</p>
     <h2>Lorem ipsum dolor sit.</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
-    <p>Nesciunt voluptates, a natus doloremque recusandae ea.</p>
+    <p><strong>Nesciunt voluptates, a natus doloremque recusandae ea.</strong></p>
     <p>Cum sint ipsa ullam dolorem consequuntur voluptatum?</p>
-    <p>Ducimus pariatur autem qui corporis, deleniti numquam.</p>
-    <img src="images/randm.jpg" alt="Lorem ipsum text and this means randomness.">
-   <ol>
-        <li><p>Sevdiğim Filmler:</p></li>
+    <p><em>Ducimus pariatur autem qui corporis, deleniti numquam.</em></p>
+    <img src="images/randm.jpg" title="Lorem ipsum text and this means randomness." alt="Lorem ipsum text and this means randomness.">
+    </div>
+        <span>    
+        <ol>
+            <li><p>Sevdiğim Filmler:</p></li>
     
-            <ul>
-                <li> <a href="https://www.imdb.com/title/tt0050083/">12 Angry Men</a></li>
+                <ul>
+                    <li> <a href="https://www.imdb.com/title/tt0050083/">12 Angry Men</a></li>
             <!-- En sevdiğim ve benim için çok özel bir film. -->
-                <li><a href="https://www.imdb.com/title/tt0047396/"> Rear Window</a></li>
+                    <li><a href="https://www.imdb.com/title/tt0047396/"> Rear Window</a></li>
             <!-- Çok geç keşfettiğim ve çok severek izlediğim bir film. -->
-                <li><a href="https://www.imdb.com/title/tt0071562/"> Godfather II</a></li> 
-            </ul>
-        <li><p>Sevdiğim Diziler:</p></li>
-            <ul>
-                <li><a href="https://www.imdb.com/title/tt3032476/">Better Call Saul</a></li>
-                <li><a href="https://www.imdb.com/title/tt0903747/">Breaking Bad</a></li>
-                <li><a href="https://www.imdb.com/title/tt0386676/">The Office</a></li>
-            </ul>
-        <li><p>Sevdiğim Kitaplar:</p></li>
-            <ul>
-                <li> <a href="https://www.goodreads.com/book/show/33113864-metro-2035?from_search=true&from_srp=true&qid=Tcp7YgSSUf&rank=1"> Metro 2035</a> </li> <!-- Favori roman serim olabilir. Çok kaliteli ve okuması zevkli. -->
-                <li> <a href="https://www.goodreads.com/book/show/59366235-denial">Denial</a></li>    <!-- Beverly Mclachlin'in çok kaliteli bir kitabı.  -->
-                <li><a href="https://www.goodreads.com/book/show/40792913-altered-carbon?from_search=true&from_srp=true&qid=2dnG2W2bfR&rank=1">Altered Carbon</a></li>
-            </ul>
-    </ol>
-    
+                    <li><a href="https://www.imdb.com/title/tt0071562/"> Godfather II</a></li> 
+                </ul>
+            <li><p>Sevdiğim Diziler:</p></li>
+                <ul>
+                    <li><a href="https://www.imdb.com/title/tt3032476/">Better Call Saul</a></li> <!-- Son zamanların en başarılı dizilerinden biri. -->
+                    <li><a href="https://www.imdb.com/title/tt0903747/">Breaking Bad</a></li> <!-- Televizyon tarihinin en başarılı dizilerinden biri. -->
+                    <li><a href="https://www.imdb.com/title/tt0386676/">The Office</a></li>
+                </ul>
+            <li><p>Sevdiğim Kitaplar:</p></li>
+                <ul>
+                    <li> <a href="https://www.goodreads.com/book/show/33113864-metro-2035?from_search=true&from_srp=true&qid=Tcp7YgSSUf&rank=1"> Metro 2035</a> </li> <!-- Favori roman serim olabilir. Çok kaliteli ve okuması zevkli. -->
+                    <li> <a href="https://www.goodreads.com/book/show/59366235-denial">Denial</a></li>    <!-- Beverly Mclachlin'in çok kaliteli bir kitabı.  -->
+                    <li><a href="https://www.goodreads.com/book/show/40792913-altered-carbon?from_search=true&from_srp=true&qid=2dnG2W2bfR&rank=1">Altered Carbon</a></li>
+                </ul>
+        </ol>
+    </span>
     
     <img src="images/artyom.jpg" title="Artyom" alt="Artyom Metro Serisinin baş karakteri ve Metro serisinde Rusya'yı kurtarması ile bilinir.">
 <br>
     <img src="https://picsum.photos/1366/768" title="Lorem Picsum" alt="Some lorem picsum image in 1366x768.">
+
+    <h3>İletişim:
+        <p><a href="mailto:erentopacoglu21@gmail.com" style="color:rosybrown"><strong>(Mail adresi):</strong></a></p>
+        <p><a href="tel:05012345678" style="background-color:purple"><em>Telefon numarası(Numara rastgele)</em>:</a></p>
+    </h3>
+
 </body>
 </html>
